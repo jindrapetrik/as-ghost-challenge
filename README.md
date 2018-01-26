@@ -39,7 +39,7 @@ See script in frame1.
 #### Separate class version
 In [challenge/as3_class](challenge/as3_class), there is ActionScript3 project.
 * [fla_source](challenge/as3_class/fla_source) subdirectory contains FLA (XFL) that can be opened and compiled with Flash CS6 or later.
-* Separate `com.jpexs.flash.mystery.Ghost` exists in the appropriate [directory](challenge/as3_class/com/jpexs/flash/mystery)
+* Separate class `com.jpexs.flash.mystery.Ghost` exists in the appropriate [directory](challenge/as3_class/com/jpexs/flash/mystery)
 * The class can be also compiled with Flex SDK using [flex_compile.bat](challenge/as3_class/flex_compile.bat) file
 * *WARNING: When you compile the class using Flex, there will be no graphics, only textfields.*
   But that should be enough for solving the challenge.
