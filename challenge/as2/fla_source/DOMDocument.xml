@@ -1,10 +1,10 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#000000" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 537" majorVersion="12" buildNumber="537" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#000000" currentTimeline="1" xflVersion="2.0" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 537" majorVersion="12" buildNumber="537" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false">
      <fonts>
           <DOMFontItem name="Font 1" itemID="5a681fca-000001dd" font="TimesNewRomanPSMT" size="0" id="1" sourceLastImported="1516773322" embedRanges="1|2|3|4"/>
      </fonts>
      <symbols>
-          <Include href="bubbleSymbol.xml" loadImmediate="false" itemID="5a682130-000001e4" lastModified="1516773680"/>
-          <Include href="ghostSymbol.xml" loadImmediate="false" itemID="5a682078-000001df" lastModified="1516773496"/>
+          <Include href="bubbleSymbol.xml" loadImmediate="false"/>
+          <Include href="ghostSymbol.xml" loadImmediate="false"/>
      </symbols>
      <timelines>
           <DOMTimeline name="Scene 1">
