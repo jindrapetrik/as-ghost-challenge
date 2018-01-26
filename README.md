@@ -11,7 +11,7 @@ if(ghostsExist) {
 }
 ```
 
-## Task
+## Challenge
 Insert some code in the marked place, to make ghost BOO.
 
 ## Rules
