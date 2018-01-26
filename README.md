@@ -24,7 +24,7 @@ In this repository, you can find stubs for AS2 and AS3 for you to experiment.
 
 ### AS2
 In [challenge/as2/fla_source](challenge/as2/fla_source) you can find ActionScript2 sample FLA (XFL) that
-can be opened and compiled with Flash CS6 or later.
+can be opened and compiled with Flash CS6.
 See script in frame1.
 
 ### AS3
