@@ -1,7 +1,7 @@
 # ActionScript Ghost challenge
 
 
-*Image following code:*
+*Imagine following code:*
 
 ```actionscript
 var ghostsExist = false;
