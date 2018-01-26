@@ -1,0 +1,6 @@
+#Do not handle line ends
+*.xml -text
+*.as -text
+*.xfl -text
+#This one is binary
+*.cache binary
