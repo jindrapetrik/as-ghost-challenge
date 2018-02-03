@@ -1,0 +1,17 @@
+var ghostsExist = false; //ghosts do not exist
+var n:Number = 0; //Let n be the number of scared people
+
+if(ghostsExist) //if there is a ghost
+{
+	trace("Someone seen a ghost!!!");
+	txtGhostTalk.text = "BOO!";
+	trace("People getting scary...");
+	n++; n++;
+	
+	//TODO: insert code here to release a Ghost - make him BOO
+	// Rule 1: Do not close the surrounding if clause with '}' or '} else {'
+	// Rule 2: Do not modify scripts outside the if clause
+}
+
+//Just write out number of people in case of someone gets scared:
+txtNumScared.text = n;
