@@ -95,7 +95,5 @@ txtNumScared.text = String(n);]]></script>
           </DOMTimeline>
      </timelines>
      <PrinterSettings/>
-     <publishHistory>
-          
-     </publishHistory>
+     <publishHistory/>
 </DOMDocument>
